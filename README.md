@@ -1,4 +1,4 @@
-# Prework - *Color Changing Background*
+# CodePath IOS Prework - *Color Changing Background*
 
 Submitted by: **Annlee X. Johnson**
 
@@ -13,9 +13,8 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-https://github.com/annaleexjohnson/codepath_prework/assets/87035551/0f3ddf6e-d722-4352-a747-65ac18990fb0
+## GIF Walkthrough
+![codepath_prework](https://github.com/annaleexjohnson/codepath_prework/assets/87035551/5489c46b-fb6c-4708-85a3-a12b2a5f309e)
 
 
 ## App Brainstorming
